@@ -1,5 +1,5 @@
 Q:  Are there places in the World where the DALYs in 2019 is less than 18,000? If so, where
 are they?
-line: 63-65
+line: 49-52
 Discussion: There are six places where DALYs in 2019 is less than 18,000, which is Iceland, Israel, Japan, Singapore, South Korea and Switzerland.
 Low DALYs in these places maybe means people in these places have a lower possibility to die early due to accidents or disease
